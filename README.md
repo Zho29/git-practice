@@ -10,3 +10,6 @@ I find this perspective interesting because it shifts the focus from typing code
 ## Comment from Elize
 
 I found this article interesting because it shows ow much influence Google has over online advertising and how courts are trying to create core competition without completely breaking up the company. I thought it was interesting that Google will have to make some of its advertising tools with more openly with competitors and share more data.
+## comment
+
+Interesting perspective
